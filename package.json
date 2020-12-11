@@ -1,6 +1,6 @@
 {
   "name": "hello-world-react-npm-package-example",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "hello-world-react-npm-package-example",
   "main": "lib/index.js",
   "scripts": {
