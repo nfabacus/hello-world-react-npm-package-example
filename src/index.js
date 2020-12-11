@@ -1,3 +1,5 @@
+import React from 'react';
+
 import useActiveToggle from './use-active-toggle';
 
 export const HelloWorld = ({ name }) => {
